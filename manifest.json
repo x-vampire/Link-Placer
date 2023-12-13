@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Link Placers",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "linkpic.png"
+    },
+    "permissions":["tabs"]
+}
